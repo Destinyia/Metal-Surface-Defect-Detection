@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+opencv-python
+matplotlib
+pyyaml
+tqdm
+psutil
+requests
+streamlit
+kornia
+pytorch_msssim
+torchsummary
