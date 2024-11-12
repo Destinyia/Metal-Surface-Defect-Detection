@@ -1,4 +1,4 @@
-from ultralytics_ import YOLO
+from ultralytics import YOLO
 
 if __name__ == '__main__':
     # 加载模型
